@@ -1,5 +1,5 @@
 #!/usr/bin/expect
-## Author: Simon Peter
+## Author: Simon Peter, Swisscom IT Services AG
 ## Created: 15.08.2013
 ## Last modified: 16.08.2013
 ## Version: 0.2
