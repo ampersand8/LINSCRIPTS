@@ -17,7 +17,7 @@ if {[string length $host] == 0} {
 }
 
 set outfile "ssh_connect.log"
-set output [open $outfile a]
+set output [open $outfile a+]
 
 set commandlen [string length $command]
 
